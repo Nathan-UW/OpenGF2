@@ -1,3 +1,3 @@
-# OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World
+# OpenGF++: A Large-scale Airborne LiDAR Dataset for Panoptic Segmentation of Urban Scenes
 
-![Image](Imgs/figexample.png)
+![Image](OpenGF2.png)
